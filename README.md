@@ -1,1 +1,1 @@
-# GodotFirstProject
+# GodotFirstProject新手可以拿它来学习下最基础的Godot用法
